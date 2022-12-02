@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Farukov_PR-24</string>
+    <string name="photo">Сделать фото</string>
+    <string name="video">Video</string>
+</resources>
